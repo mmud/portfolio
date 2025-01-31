@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/portfolio-deploy/static/css/main.c8056b3e.css",
-    "main.js": "/portfolio-deploy/static/js/main.bc9d5cdf.js",
-    "static/media/store.png": "/portfolio-deploy/static/media/store.6107a2aa5c8504747fb9.png",
-    "static/media/HTML.png": "/portfolio-deploy/static/media/HTML.dbc3baa7e405494219e6.png",
-    "static/media/R.png": "/portfolio-deploy/static/media/R.fb59dfc6bb1bac6b0ad0.png",
-    "static/media/nodejs.png": "/portfolio-deploy/static/media/nodejs.e1d9233897fbe03fda7b.png",
-    "static/media/home.jpg": "/portfolio-deploy/static/media/home.17d1254bf204170feb4b.jpg",
-    "static/media/logo.png": "/portfolio-deploy/static/media/logo.9bb89701b4da7ba32724.png",
-    "static/media/js.png": "/portfolio-deploy/static/media/js.58b3f5d94e933a171bae.png",
-    "static/media/amer.jpg": "/portfolio-deploy/static/media/amer.06189b788c7aaf75e209.jpg",
-    "static/media/social.png": "/portfolio-deploy/static/media/social.07d01a0fd473c4f57073.png",
-    "static/media/animo.jpg": "/portfolio-deploy/static/media/animo.3058a57a8deb9a48b362.jpg",
-    "static/media/pizza.jpg": "/portfolio-deploy/static/media/pizza.7f6d18149df9943835a7.jpg",
-    "static/media/center.jpg": "/portfolio-deploy/static/media/center.e5a6619b632f8dd7ed63.jpg",
-    "static/media/CSS.png": "/portfolio-deploy/static/media/CSS.bc75ccc78e3bf74f8aed.png",
-    "static/media/MahmoudShaabanAmer.docx": "/portfolio-deploy/static/media/MahmoudShaabanAmer.fc61b56b910c5a468776.docx",
-    "index.html": "/portfolio-deploy/index.html",
-    "main.c8056b3e.css.map": "/portfolio-deploy/static/css/main.c8056b3e.css.map",
-    "main.bc9d5cdf.js.map": "/portfolio-deploy/static/js/main.bc9d5cdf.js.map"
+    "main.css": "/portfolio/static/css/main.c8056b3e.css",
+    "main.js": "/portfolio/static/js/main.240ccfbf.js",
+    "static/media/store.png": "/portfolio/static/media/store.6107a2aa5c8504747fb9.png",
+    "static/media/HTML.png": "/portfolio/static/media/HTML.dbc3baa7e405494219e6.png",
+    "static/media/R.png": "/portfolio/static/media/R.fb59dfc6bb1bac6b0ad0.png",
+    "static/media/nodejs.png": "/portfolio/static/media/nodejs.e1d9233897fbe03fda7b.png",
+    "static/media/home.jpg": "/portfolio/static/media/home.17d1254bf204170feb4b.jpg",
+    "static/media/logo.png": "/portfolio/static/media/logo.9bb89701b4da7ba32724.png",
+    "static/media/js.png": "/portfolio/static/media/js.58b3f5d94e933a171bae.png",
+    "static/media/amer.jpg": "/portfolio/static/media/amer.06189b788c7aaf75e209.jpg",
+    "static/media/social.png": "/portfolio/static/media/social.07d01a0fd473c4f57073.png",
+    "static/media/animo.jpg": "/portfolio/static/media/animo.3058a57a8deb9a48b362.jpg",
+    "static/media/pizza.jpg": "/portfolio/static/media/pizza.7f6d18149df9943835a7.jpg",
+    "static/media/center.jpg": "/portfolio/static/media/center.e5a6619b632f8dd7ed63.jpg",
+    "static/media/CSS.png": "/portfolio/static/media/CSS.bc75ccc78e3bf74f8aed.png",
+    "static/media/MahmoudShaabanAmer.docx": "/portfolio/static/media/MahmoudShaabanAmer.fc61b56b910c5a468776.docx",
+    "index.html": "/portfolio/index.html",
+    "main.c8056b3e.css.map": "/portfolio/static/css/main.c8056b3e.css.map",
+    "main.240ccfbf.js.map": "/portfolio/static/js/main.240ccfbf.js.map"
   },
   "entrypoints": [
     "static/css/main.c8056b3e.css",
-    "static/js/main.bc9d5cdf.js"
+    "static/js/main.240ccfbf.js"
   ]
 }
